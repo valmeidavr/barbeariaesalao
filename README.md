@@ -44,4 +44,4 @@ Tecnologias utilizadas para desenvolver esse aplicativo
 
 ## 📝 Licença
 
-💙 by FAETERJ 2022 - Jonatas, Eder e Gabriel
+💙 by FAETERJ 2022 - Prof.Vinicius, Jonatas, Eder e Gabriel
